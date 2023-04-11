@@ -14,24 +14,18 @@ Unless arranged otherwise with supervisor, sign up for consultations through [th
 
 # Midterm
 Results are in SIS and solution was presented. If you have not received mark and should, please notify jan.sila@fsv.cuni.cz to sort it out.
+-->
 
 # Project proposal
-The only way to submit your project is through [project submission form](https://forms.gle/mjep3PriDurWvg157) so that we keep communication clear. You will get a consultant who will help you make the project better (or at least mark it for you). If you have tech troubles with the form, contact Jan.
+The only way to submit your project is through [project submission form](https://forms.gle/ptEqaNyL4Ar73SVZ7) so that we keep communication clear. You will get a consultant who will help you make the project better (or at least mark it for you). If you have tech troubles with the form, contact Jan.
+### Projet matching
+If you are looking for a project partner, [connect through this sheet](https://docs.google.com/spreadsheets/d/1IFZnnEw0Cz48ZZHWUiS7VIHyKkWvzxSgdwDKmAysw8M/edit?usp=sharing).
 
--->
-# Midterm March 2023
-Please read the [preview for midterm](https://ies-python-midterm.s3.eu-central-1.amazonaws.com/tasks/Midterm_tasks-ff1f7bc2_march_2023_v1-preview.pdf). The tasks will appear right here at 18:30 CET.
-* Read the instructions **carefully**
-* Ensure you have your own **github repository** to which you will upload the solution
-* The only official channel to **submit your solution** is through form here https://forms.gle/1U3VV1hhHD1G27S3A 
-
-* Results will appear within a week in your SIS
-
-
-
-# Communication
-Please direct all questions at [Jan Šíla](mailto:jan.sila@fsv.cuni.cz) only. Before you do, read the FAQ below!!
+## Communication
+Please direct all questions at [Jan Šíla](mailto:jan.sila@fsv.cuni.cz) only. 
 <!---
+
+Before you do, read the FAQ below!!
 # FAQ - pre semester
 * If you are on **waiting list** there is *nothing* we can do to enroll you. We managed to master somehow `python`, but SIS is something else. We follow the rules. Students usully drop from the course during the first week of the semester so **there is a good chance** you will be able to register.
 
@@ -57,7 +51,7 @@ Please direct all questions at [Jan Šíla](mailto:jan.sila@fsv.cuni.cz) only. B
 | 14/3  | Seminar 2                                        | Vitek |                         |    |   |
 | 21/3  | L6: MIDTERM                                           | Jan |                        |  |   |
 | 27/3 | Seminar 3                                              | Vitek   |                        |    |   |
-| 28/3 | L7: Data science + Matplotlib                          | Martin |                        |    |   |
+| 3/4 | L7: Data science + Matplotlib                          | Martin |                        |    |   |
 | 4/4  | L8: How to code (avoiding spaghetti code)                | Martin  |                        |    |   |
 | 11/4 | L9: Databases                                 |             Vitek |        DEADLINE: topic approval                | HW 4   |   |
 | 17/4  | Seminar 4                                        | Martin |                        |    |   |
